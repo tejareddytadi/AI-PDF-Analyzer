@@ -37,7 +37,8 @@ After running the Colab notebook, upload the appnew.py file to your Google Colab
 Now run the lasst cell in colab file (streamlit cell), Once the Streamlit app is running, follow the link provided by Localtunnel (e.g., https://your-subdomain.loca.lt) to access the app in your browser.
 
 # Example Interface
-Here is an example of what the interface looks like:
+Here is an example of what the interface looks like:![Interface Example](Working%20example.png)
+
 
 # Interacting with the Application
 Upload PDF Files:
