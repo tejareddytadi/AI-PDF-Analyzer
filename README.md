@@ -2,6 +2,13 @@
 
 This repository contains the code for an AI-powered application that allows users to upload PDF documents, extract and analyze their contents, and generate insights based on user queries. The project leverages state-of-the-art NLP models, including Sentence Transformers for document embedding and GPT-2 for generating human-readable insights.
 
+# Datasets
+The datasets used in this project include:
+
+Google 10-K: The annual report of Alphabet Inc, detailing the company's financial performance, risk factors, and management's discussion and analysis.
+Tesla 10-K: The annual report of Tesla Inc, providing insights into the company's operations, financial condition, and risks.
+Uber 10-K: The annual report of Uber Technologies Inc, highlighting the company's business model, financial metrics, and potential risk factors.
+
 # Setup and Installation
 Requirements
 Python 3.6+
