@@ -22,7 +22,7 @@ Localtunnel (optional for sharing the app publicly)
 Running the Application
 Step 1: Run the Colab Notebook
 Open the Colab notebook:
-Upload the provided Colab notebook (colab_notebook.ipynb) to your Google Colab account.
+Upload the provided Colab notebook (ai_pdfanalyzer.ipynb) to your Google Colab account.
 
 Run the cells in the notebook:
 Execute each cell in the notebook sequentially to set up the environment, load the models, and process the PDF documents.
