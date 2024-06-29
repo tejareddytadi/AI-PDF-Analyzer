@@ -23,4 +23,4 @@ The application will display extracted text snippets, relevant content, and gene
 
 # Code Overview
 appnew.py: The main application file for the Streamlit app.
-colab_notebook.ipynb: The original Colab notebook that demonstrates the functionality and serves as the basis for the Streamlit app.
+ai-pdfanalyzer.ipynb: The original Colab notebook that demonstrates the functionality and serves as the basis for the Streamlit app.
